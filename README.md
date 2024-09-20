@@ -6,6 +6,11 @@ A ideia inicial é baixar todas as regulações sobre as Cooperativas de Crédit
 
 Esse readme percisa ser atualizado.
 
+#### Dúvidas
+
+  - Em Bigram: Usar texto ou texto_processado? Remover stop_words antes?
+
+
 ### Descrição
 
 Este repositório contém scripts em R para baixar, processar e analisar dados normativos do site do Banco Central do Brasil. O objetivo é extrair informações relevantes de normativos específicos, como tipos de normativos, números, assuntos e textos associados, para fins de análise e pesquisa.
