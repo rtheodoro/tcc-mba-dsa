@@ -1,4 +1,10 @@
-# Normative Data Analysis
+# TCC
+
+[Em construção]
+
+A ideia inicial é baixar todas as regulações sobre as Cooperativas de Crédito e ver os assuntos tratados com o passar do tempo.
+
+Esse readme percisa ser atualizado.
 
 ### Descrição
 
