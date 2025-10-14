@@ -1,15 +1,32 @@
-# TCC
+# Bacenr: pacote em R para download e análise de dados do Banco Central do Brasil
 
-[Em construção]
+O objetivo deste trabalho de conclusão de curso será criar um pacote em R e disponibilizá-lo de forma que qualquer pessoa possa acessar os dados com facilidade, mesmo aquelas que possuam pouco conhecimento em programação.
 
-A ideia inicial é baixar todas as regulações sobre as Cooperativas de Crédito e ver os assuntos tratados com o passar do tempo.
+Também será feita uma demonstração de análise de dados baixados através deste pacote.
 
-Esse readme percisa ser atualizado.
+As informações baixadas serão: 
 
-#### Dúvidas
+ - Normas reguladoras
+ - Balanços e Balancetes
+ - Informações de cadastro
+ - Outros....
 
-  - Em Bigram: Usar texto ou texto_processado? Remover stop_words antes?
 
+### Contribuição
+
+Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Abra uma issue ou envie um pull request.
+Licença
+
+Este projeto está licenciado sob a MIT License.
+
+### Autor
+
+- [Ricardo Theodoro](https://www.linkedin.com/in/rtheodoro/)
+
+
+---
+
+Documentação futura sobre download das normas reguladoras:
 
 ### Descrição
 
@@ -150,10 +167,3 @@ Requisitos
     Clone o repositório para o seu ambiente local.
     Instale os pacotes necessários.
     Execute o script normativos_analysis.R para baixar, processar e analisar os dados normativos.
-
-### Contribuição
-
-Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Abra uma issue ou envie um pull request.
-Licença
-
-Este projeto está licenciado sob a MIT License.
