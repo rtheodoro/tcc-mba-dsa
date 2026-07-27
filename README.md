@@ -1,4 +1,4 @@
-# bacenr: pacote em R para download e análise de dados do Banco Central do Brasil
+# bacenR: pacote em R para coleta e tratamento de dados do Banco Central do Brasil
 
 O objetivo deste trabalho de conclusão de curso foi criar um pacote em R e disponibilizá-lo de forma que qualquer pessoa possa acessar os dados com facilidade, mesmo aquelas que possuam pouco conhecimento em programação.
 
